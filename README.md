@@ -13,7 +13,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0040-combination-sum-ii) |
-| [0041-first-missing-positive](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
@@ -34,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
+| [0645-set-mismatch](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -48,7 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0001-two-sum) |
-| [0041-first-missing-positive](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0205-isomorphic-strings) |
@@ -56,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Heap (Priority Queue)
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0861-score-after-flipping-matrix) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |

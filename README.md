@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0704-binary-search) |

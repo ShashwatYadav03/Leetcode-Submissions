@@ -22,12 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
-| [0090-subsets-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0658-find-k-closest-elements) |
@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0658-find-k-closest-elements) |
@@ -159,7 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0078-subsets) |
-| [0090-subsets-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0861-score-after-flipping-matrix) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
@@ -221,7 +223,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0078-subsets) |
-| [0090-subsets-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 ## Recursion
 |  |
 | ------- |

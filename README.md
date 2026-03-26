@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2187-minimum-time-to-complete-trips) |
 ## Hash Table
 |  |

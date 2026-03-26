@@ -10,7 +10,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0031-next-permutation) |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
@@ -98,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Dynamic Programming
@@ -132,8 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0367-valid-perfect-square](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0704-binary-search) |
 ## Trie
 |  |

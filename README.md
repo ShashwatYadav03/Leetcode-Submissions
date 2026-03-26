@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0867-transpose-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->

@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -122,16 +123,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0538-convert-bst-to-greater-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0538-convert-bst-to-greater-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0538-convert-bst-to-greater-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0538-convert-bst-to-greater-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->

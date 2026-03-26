@@ -123,11 +123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0617-merge-two-binary-trees](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0617-merge-two-binary-trees](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -137,4 +139,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0617-merge-two-binary-trees](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0617-merge-two-binary-trees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->

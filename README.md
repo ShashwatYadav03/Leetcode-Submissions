@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0189-rotate-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0861-score-after-flipping-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0861-score-after-flipping-matrix) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Bit Manipulation
 |  |
 | ------- |

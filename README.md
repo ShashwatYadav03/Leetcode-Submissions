@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0704-binary-search) |

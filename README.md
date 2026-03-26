@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0283-move-zeroes) |
@@ -30,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -57,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |

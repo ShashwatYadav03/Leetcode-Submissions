@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1402-reducing-dishes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0658-find-k-closest-elements) |
+| [1402-reducing-dishes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1402-reducing-dishes) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
+| [1402-reducing-dishes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1402-reducing-dishes) |
 ## Stack
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0861-score-after-flipping-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0861-score-after-flipping-matrix) |
+| [1402-reducing-dishes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1402-reducing-dishes) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Bit Manipulation
 |  |

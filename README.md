@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2187-minimum-time-to-complete-trips) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [1402-reducing-dishes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1402-reducing-dishes) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0861-score-after-flipping-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0861-score-after-flipping-matrix) |
 | [1402-reducing-dishes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1402-reducing-dishes) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2187-minimum-time-to-complete-trips) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Trie
 |  |
 | ------- |
@@ -284,5 +288,6 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1480-running-sum-of-1d-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->

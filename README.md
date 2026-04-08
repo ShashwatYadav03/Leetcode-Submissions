@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0538-convert-bst-to-greater-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
+| [0797-all-paths-from-source-to-target](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
+| [0797-all-paths-from-source-to-target](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0797-all-paths-from-source-to-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0090-subsets-ii) |
+| [0797-all-paths-from-source-to-target](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0797-all-paths-from-source-to-target) |
 ## Recursion
 |  |
 | ------- |
@@ -324,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0876-middle-of-the-linked-list) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->

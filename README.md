@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0060-permutation-sequence) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Binary Indexed Tree
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |

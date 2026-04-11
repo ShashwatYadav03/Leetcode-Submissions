@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0268-missing-number) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0283-move-zeroes) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0876-middle-of-the-linked-list) |

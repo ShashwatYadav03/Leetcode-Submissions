@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0148-sort-list) |

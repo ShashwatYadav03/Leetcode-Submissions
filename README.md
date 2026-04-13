@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Binary Indexed Tree
 |  |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2326-spiral-matrix-iv) |

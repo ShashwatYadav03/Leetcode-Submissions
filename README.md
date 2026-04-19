@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -367,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0797-all-paths-from-source-to-target) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
@@ -189,12 +190,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 ## String
 |  |
 | ------- |

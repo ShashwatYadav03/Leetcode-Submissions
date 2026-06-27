@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
+| [0622-design-circular-queue](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0622-design-circular-queue](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0622-design-circular-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -395,4 +398,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->

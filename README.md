@@ -217,12 +217,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0038-count-and-say](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0649-dota2-senate](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0649-dota2-senate) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0455-assign-cookies) |
+| [0649-dota2-senate](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0649-dota2-senate) |
 | [0861-score-after-flipping-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0861-score-after-flipping-matrix) |
 | [1402-reducing-dishes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1402-reducing-dishes) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |

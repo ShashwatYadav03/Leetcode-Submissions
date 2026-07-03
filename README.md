@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0232-implement-queue-using-stacks) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |

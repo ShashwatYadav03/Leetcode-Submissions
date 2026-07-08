@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0538-convert-bst-to-greater-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0617-merge-two-binary-trees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0538-convert-bst-to-greater-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0617-merge-two-binary-trees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search

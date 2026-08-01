@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0039-combination-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0061-rotate-list) |

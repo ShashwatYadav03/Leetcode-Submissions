@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0841-keys-and-rooms](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0841-keys-and-rooms) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1034-coloring-a-border](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1034-coloring-a-border) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0538-convert-bst-to-greater-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |

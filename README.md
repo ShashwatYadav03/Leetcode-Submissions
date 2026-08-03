@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0133-clone-graph) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0148-sort-list) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |

@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0049-group-anagrams) |
@@ -503,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0622-design-circular-queue) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

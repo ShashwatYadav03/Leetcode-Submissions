@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -517,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->

@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1034-coloring-a-border](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1034-coloring-a-border) |
 | [1052-grumpy-bookstore-owner](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1052-grumpy-bookstore-owner) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1331-rank-transform-of-an-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [0929-unique-email-addresses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0929-unique-email-addresses) |
+| [1331-rank-transform-of-an-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3692-majority-frequency-characters](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/3692-majority-frequency-characters) |
 | [3731-find-missing-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1331-rank-transform-of-an-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1402-reducing-dishes) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2389-longest-subsequence-with-limited-sum) |

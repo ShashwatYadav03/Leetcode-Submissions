@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0069-sqrtx) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0022-generate-parentheses) |

@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2187-minimum-time-to-complete-trips](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2326-spiral-matrix-iv](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3692-majority-frequency-characters](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/3692-majority-frequency-characters) |
 | [3731-find-missing-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer

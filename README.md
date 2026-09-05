@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0078-subsets](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0779-k-th-symbol-in-grammar) |

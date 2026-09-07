@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
+| [1143-longest-common-subsequence](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
 | [1402-reducing-dishes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0423-reconstruct-original-digits-from-english](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0649-dota2-senate](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0649-dota2-senate) |
 | [0929-unique-email-addresses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0929-unique-email-addresses) |
+| [1143-longest-common-subsequence](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3692-majority-frequency-characters](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/3692-majority-frequency-characters) |
 ## Greedy
@@ -560,4 +562,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

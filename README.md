@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0733-flood-fill) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0133-clone-graph](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 ## Prefix Sum
 |  |

@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1034-coloring-a-border](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1034-coloring-a-border) |
 | [1052-grumpy-bookstore-owner](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1052-grumpy-bookstore-owner) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0861-score-after-flipping-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0867-transpose-matrix) |
 | [1034-coloring-a-border](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1034-coloring-a-border) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2326-spiral-matrix-iv](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [1143-longest-common-subsequence](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1402-reducing-dishes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack

@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0929-unique-email-addresses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0929-unique-email-addresses) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0999-available-captures-for-rook](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0999-available-captures-for-rook) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1034-coloring-a-border](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1034-coloring-a-border) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0733-flood-fill) |
 | [0861-score-after-flipping-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0999-available-captures-for-rook) |
 | [1034-coloring-a-border](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1034-coloring-a-border) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2326-spiral-matrix-iv](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2326-spiral-matrix-iv) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0999-available-captures-for-rook](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0999-available-captures-for-rook) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2326-spiral-matrix-iv](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2326-spiral-matrix-iv) |
 ## Math

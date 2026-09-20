@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0779-k-th-symbol-in-grammar) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |

@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0861-score-after-flipping-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0929-unique-email-addresses) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0645-set-mismatch) |
+| [0888-fair-candy-swap](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0929-unique-email-addresses) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0658-find-k-closest-elements) |
+| [0888-fair-candy-swap](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0888-fair-candy-swap) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2187-minimum-time-to-complete-trips) |

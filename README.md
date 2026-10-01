@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0606-construct-string-from-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0606-construct-string-from-binary-tree) |
 | [0649-dota2-senate](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0649-dota2-senate) |
 | [0929-unique-email-addresses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0929-unique-email-addresses) |
 | [1143-longest-common-subsequence](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0501-find-mode-in-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0501-find-mode-in-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0733-flood-fill) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0501-find-mode-in-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0701-insert-into-a-binary-search-tree) |

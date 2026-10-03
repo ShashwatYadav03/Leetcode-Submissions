@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0861-score-after-flipping-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0861-score-after-flipping-matrix) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Binary Search
 |  |
 | ------- |

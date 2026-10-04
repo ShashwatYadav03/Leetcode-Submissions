@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0929-unique-email-addresses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0929-unique-email-addresses) |
 | [1143-longest-common-subsequence](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3330-find-the-original-typed-string-i](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/3330-find-the-original-typed-string-i) |
 | [3692-majority-frequency-characters](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/3692-majority-frequency-characters) |
 ## Greedy
 |  |

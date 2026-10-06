@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1034-coloring-a-border](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1034-coloring-a-border) |
 | [1052-grumpy-bookstore-owner](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1052-grumpy-bookstore-owner) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0867-transpose-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0999-available-captures-for-rook) |
 | [1034-coloring-a-border](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1034-coloring-a-border) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2326-spiral-matrix-iv](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2326-spiral-matrix-iv) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0797-all-paths-from-source-to-target](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0841-keys-and-rooms) |
 | [1034-coloring-a-border](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1034-coloring-a-border) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Sliding Window
 |  |

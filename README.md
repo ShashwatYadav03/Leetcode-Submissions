@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1034-coloring-a-border](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1034-coloring-a-border) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2326-spiral-matrix-iv](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1034-coloring-a-border](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1034-coloring-a-border) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Sliding Window
 |  |
 | ------- |

@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0856-score-of-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0423-reconstruct-original-digits-from-english](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0606-construct-string-from-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0606-construct-string-from-binary-tree) |
 | [0649-dota2-senate](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0649-dota2-senate) |
+| [0856-score-of-parentheses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0856-score-of-parentheses) |
 | [0929-unique-email-addresses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0929-unique-email-addresses) |
 | [1143-longest-common-subsequence](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0856-score-of-parentheses) |
 ## Enumeration
 |  |
 | ------- |

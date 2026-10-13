@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0999-available-captures-for-rook](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0999-available-captures-for-rook) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -647,4 +649,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0999-available-captures-for-rook](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0999-available-captures-for-rook) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2326-spiral-matrix-iv](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2326-spiral-matrix-iv) |
 ## Math
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2169-count-operations-to-obtain-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |

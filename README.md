@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2326-spiral-matrix-iv](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2326-spiral-matrix-iv) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1402-reducing-dishes) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0888-fair-candy-swap](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Trie

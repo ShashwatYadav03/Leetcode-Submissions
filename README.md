@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2235-add-two-integers](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |

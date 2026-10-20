@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1528-shuffle-string](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1528-shuffle-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1895-largest-magic-square](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1895-largest-magic-square) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0856-score-of-parentheses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0856-score-of-parentheses) |
 | [0929-unique-email-addresses](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0929-unique-email-addresses) |
 | [1143-longest-common-subsequence](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
+| [1528-shuffle-string](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1528-shuffle-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3330-find-the-original-typed-string-i](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/3330-find-the-original-typed-string-i) |
 | [3692-majority-frequency-characters](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/3692-majority-frequency-characters) |

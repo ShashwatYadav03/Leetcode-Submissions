@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1402-reducing-dishes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1402-reducing-dishes) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
@@ -670,4 +673,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0258-add-digits) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

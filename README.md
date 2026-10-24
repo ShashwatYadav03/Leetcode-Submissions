@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1034-coloring-a-border](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1034-coloring-a-border) |
 | [1052-grumpy-bookstore-owner](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1052-grumpy-bookstore-owner) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0999-available-captures-for-rook](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0999-available-captures-for-rook) |
 | [1034-coloring-a-border](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1034-coloring-a-border) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1895-largest-magic-square](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1895-largest-magic-square) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0979-distribute-coins-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1034-coloring-a-border](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1034-coloring-a-border) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1254-number-of-closed-islands](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0841-keys-and-rooms](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0841-keys-and-rooms) |
 | [1034-coloring-a-border](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1034-coloring-a-border) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
@@ -581,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0200-number-of-islands](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/ShashwatYadav03/Leetcode-Submissions/tree/master/1254-number-of-closed-islands) |
 ## Prefix Sum
 |  |
 | ------- |
